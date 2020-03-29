@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.cu": "cpp"
+    },
+    "cSpell.words": [
+        "cuda"
+    ]
+}
